@@ -4,12 +4,13 @@
   ~👨‍💻 Full-Stack Developer | Always eager to learn & grow
   ~🔧 Love working on both front-end and back-end projects
   ~🌱 Constantly learning to stay updated with tech trends
+  ~📫 Reach me at: sarojpandey995@gmail.com
       Connect with Me
       Instagram: @vrtexi
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on : Learning and Mentoring, Code Reviews, Documentation, API Development, UI/UX Enhancements And Open-Source Projects.
+
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: If there’s a shortcut, I’ll find it…unless it’s for learning new tech! 👨‍💻
 
 - Let’s create something awesome together! 🚀
